@@ -1,2 +1,3 @@
 # SnakeGame
-It is a game where snake will earn point if it eats a frog.
+It is a game where you will earn point if snake eats a frog.
+
